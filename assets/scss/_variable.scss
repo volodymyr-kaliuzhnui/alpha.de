@@ -1,0 +1,29 @@
+$futuraBold: 'FuturaDemiC';
+$futuraMedium: 'FuturaMediumC';
+$futuraLight: 'FuturaLightC';
+$futuraRegular: 'FuturaBookC';
+
+$white: white;
+$darkBlue: #0d294e;
+$dark: #000a10;
+$blue: #4b88df;
+$orange: #eb7233;
+$gray: #2b2a2a;
+$bgBlue : #2e65a8;
+$bgWorkers : #edf3fc;
+
+$fs42 : 42px;
+$fs24 : 24px;
+$fs22 : 22px;
+$fs20 : 20px;
+$fs18 : 18px;
+$fs16 : 16px;
+
+@mixin button {
+  border-radius: 10px;
+  outline: none;
+  padding: 25px;
+  color: $white;
+  background: $blue;
+
+}

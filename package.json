@@ -1,0 +1,15 @@
+{
+  "name": "alpha.de",
+  "version": "1.0.0",
+  "description": "Cleaning company",
+  "main": "gulpfile.js",
+  "author": "pawa",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
